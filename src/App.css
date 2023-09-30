@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 4rem;
+  text-align: center;
+  background-color: rgba(0, 255, 229, 0.373);
+  color: black;
+  border-radius: 10%;
+}
+.icons{
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+}
+.custom-icon{
+  border: solid black 2px;
+  border-radius: 100%;
+  padding: 12px;
+  cursor: pointer;
+}
+button{
+  margin-top: 10px;
+}
